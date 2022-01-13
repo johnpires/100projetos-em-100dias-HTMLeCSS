@@ -11,7 +11,7 @@ CURSOS LINK 👇
 |  #  | Projeto                                                                                                      | Youtube Link    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Loading Animations](https://github.com/johnpires/01-Loading-Animation)      | Clique aqui |
-
+| 02  | [Button Effects](https://github.com/johnpires/02-button-effects)      | Clique aqui |
 
 <br>
 
