@@ -12,7 +12,7 @@ CURSOS LINK 👇
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Loading Animations](https://github.com/johnpires/01-Loading-Animation)      | Clique aqui |
 | 02  | [Button Effects](https://github.com/johnpires/02-button-effects)      | Clique aqui |
-
+| 03  | [Text Effects](https://github.com/johnpires/03-text-effects)      | Clique aqui |
 <br>
 
 **NOTA SOBRE OS PULL REQUESTS**: Todos esses projetos fazem parte do curso. Embora eu aprecie as pessoas que tentam tornar algumas coisas mais bonitas ou adicionar novos recursos, estamos apenas aceitando solicitações pull requests com fixes de bugs para que o código permaneça alinhado com os cursos.
