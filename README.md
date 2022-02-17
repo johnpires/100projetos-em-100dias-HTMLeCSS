@@ -16,6 +16,7 @@ CURSOS LINK 👇
 | 04  | [Social Media Icons](https://github.com/johnpires/04-social-media-icons)      | Clique aqui |
 | 05  | [Cards Designs](https://github.com/johnpires/05-Cards-Designs)      | Clique aqui |
 | 06  | [Form Designs](https://github.com/johnpires/06-Form-Designs)      | Clique aqui |
+| 07  | [Gallery Designs](https://github.com/johnpires/07-gallery-designs)      | Clique aqui |
 <br>
 
 **NOTA SOBRE OS PULL REQUESTS**: Todos esses projetos fazem parte do curso. Embora eu aprecie as pessoas que tentam tornar algumas coisas mais bonitas ou adicionar novos recursos, estamos apenas aceitando solicitações pull requests com fixes de bugs para que o código permaneça alinhado com os cursos.
