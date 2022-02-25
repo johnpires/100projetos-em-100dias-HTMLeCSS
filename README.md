@@ -17,6 +17,9 @@ CURSOS LINK 👇
 | 05  | [Cards Designs](https://github.com/johnpires/05-Cards-Designs)      | Clique aqui |
 | 06  | [Form Designs](https://github.com/johnpires/06-Form-Designs)      | Clique aqui |
 | 07  | [Gallery Designs](https://github.com/johnpires/07-gallery-designs)      | Clique aqui |
+| 08  | [Header Designs](https://github.com/johnpires/08-Header-Designs)      | Clique aqui |
+| 09  | [Footer Designs](https://github.com/johnpires/09-Footer-Designs)      | Clique aqui |
+| 10  | [Pages Websites](https://github.com/johnpires/10-websites-pages)      | Clique aqui |
 <br>
 
 **NOTA SOBRE OS PULL REQUESTS**: Todos esses projetos fazem parte do curso. Embora eu aprecie as pessoas que tentam tornar algumas coisas mais bonitas ou adicionar novos recursos, estamos apenas aceitando solicitações pull requests com fixes de bugs para que o código permaneça alinhado com os cursos.
